@@ -1,0 +1,2 @@
+# SCREENSHOTS
+防止截屏处理
